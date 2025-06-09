@@ -179,16 +179,16 @@ function CreateBooking() {
                     </Form.Control>
                     <Form.Text className="text-muted">
                       Payment can be done via Phonepe, G-Pay to {PAYMENT_NUMBER}.<br />
-                      Through PayPal send it to DeekshithSN
+                      Through PayPal send it to Ekangaki Njang
                     </Form.Text>
                   </Form.Group>
                   <Form.Group className='col-6'>
                     <Form.Label>Cost</Form.Label>
                     <Card>
                       <Card.Body className='bg-light'>
-                        <div>Career Consulting ( 1hour ) - $8 / ₹500</div>
-                        <div>Mock Interview ( 1hour ) -  $8 / ₹500</div>
-                        <div>Devops Consulting ( 1hour ) - $8 / ₹500</div>
+                        <div>Career Consulting ( 1hour ) - $8 / 500 Frs</div>
+                        <div>Mock Interview ( 1hour ) -  $8 / 500 Frs</div>
+                        <div>Devops Consulting ( 1hour ) - $8 / 500 Frs</div>
                       </Card.Body>
                     </Card>
                   </Form.Group>
